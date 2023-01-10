@@ -126,7 +126,6 @@
 #row{
   display: flex;
   gap: 1rem;
-  background-color: #FEFCFB;
   justify-content: center;
 }
 
